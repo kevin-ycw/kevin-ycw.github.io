@@ -8,7 +8,7 @@
       <managingEditor>undefined (kevinwang)</managingEditor>
       <webMaster>undefined (kevinwang)</webMaster>
       <lastBuildDate>Fri, 17 Jun 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://kevin-ycw.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://kevin-ycw.github.io/tags/聽分享的心得筆記/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://kevin-ycw.github.io/blog/2022/06/aha-sharing</guid>
@@ -18,16 +18,6 @@
     <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
     <author>undefined (kevinwang)</author>
     <category>聽分享的心得筆記</category>
-  </item>
-
-  <item>
-    <guid>https://kevin-ycw.github.io/blog/2022/06/migrate-blog-to-next-js</guid>
-    <title>現代前端新手的 Next.js 建立靜態網站初體驗</title>
-    <link>https://kevin-ycw.github.io/blog/2022/06/migrate-blog-to-next-js</link>
-    <description>透過套用 Next.js Starter 專案建立部落格的一些紀錄</description>
-    <pubDate>Sat, 04 Jun 2022 00:00:00 GMT</pubDate>
-    <author>undefined (kevinwang)</author>
-    <category>next-js</category>
   </item>
 
     </channel>

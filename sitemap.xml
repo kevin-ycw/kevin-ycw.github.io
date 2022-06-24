@@ -1,30 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/about</loc>
+    <loc>https://kevin-ycw.github.io/about</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog</loc>
+    <loc>https://kevin-ycw.github.io/blog</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app</loc>
+    <loc>https://kevin-ycw.github.io</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/projects</loc>
+    <loc>https://kevin-ycw.github.io/projects</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags</loc>
+    <loc>https://kevin-ycw.github.io/tags</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/2022/06/migrate-blog-to-next-js</loc>
+    <loc>https://kevin-ycw.github.io/blog/2022/06/aha-sharing</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/next-js</loc>
+    <loc>https://kevin-ycw.github.io/blog/2022/06/migrate-blog-to-next-js</loc>
+  </url>
+
+  <url>
+    <loc>https://kevin-ycw.github.io/tags/next-js</loc>
+  </url>
+
+  <url>
+    <loc>https://kevin-ycw.github.io/tags/聽分享的心得筆記</loc>
   </url>
 </urlset>
