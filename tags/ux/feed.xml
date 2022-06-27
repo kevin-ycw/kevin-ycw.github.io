@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>kevin Wang Blog</title>
+      <link>https://kevin-ycw.github.io/blog</link>
+      <description>A blog posted some study note and my side project</description>
+      <language>zh-TW</language>
+      <managingEditor>undefined (kevinwang)</managingEditor>
+      <webMaster>undefined (kevinwang)</webMaster>
+      <lastBuildDate>Wed, 27 Apr 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://kevin-ycw.github.io/tags/ux/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://kevin-ycw.github.io/blog/2022/04/soking-ujm-seminar</guid>
+    <title>聽完 Soking UJM 講座後的筆記</title>
+    <link>https://kevin-ycw.github.io/blog/2022/04/soking-ujm-seminar</link>
+    <description>聽完 UJM 講座後整理的筆記</description>
+    <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
+    <author>undefined (kevinwang)</author>
+    <category>Get inspired</category><category>UX</category>
+  </item>
+
+    </channel>
+  </rss>
