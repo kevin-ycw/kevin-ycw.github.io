@@ -33,7 +33,15 @@
   </url>
 
   <url>
+    <loc>https://kevin-ycw.github.io/blog/2022/09/learn-google-sre-culture</loc>
+  </url>
+
+  <url>
     <loc>https://kevin-ycw.github.io/tags/agile</loc>
+  </url>
+
+  <url>
+    <loc>https://kevin-ycw.github.io/tags/devops</loc>
   </url>
 
   <url>
@@ -46,6 +54,10 @@
 
   <url>
     <loc>https://kevin-ycw.github.io/tags/scrum</loc>
+  </url>
+
+  <url>
+    <loc>https://kevin-ycw.github.io/tags/sre</loc>
   </url>
 
   <url>
