@@ -7,9 +7,19 @@
       <language>zh-TW</language>
       <managingEditor>undefined (kevinwang)</managingEditor>
       <webMaster>undefined (kevinwang)</webMaster>
-      <lastBuildDate>Thu, 15 Jun 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 02 Jul 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://kevin-ycw.github.io/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://kevin-ycw.github.io/blog/2023/07/note-continuous-delivery-ch15</guid>
+    <title>讀書筆記 持續交付 2.0 第十五章</title>
+    <link>https://kevin-ycw.github.io/blog/2023/07/note-continuous-delivery-ch15</link>
+    <description>讀 持續交付 2.0 的一些筆記</description>
+    <pubDate>Sun, 02 Jul 2023 00:00:00 GMT</pubDate>
+    <author>undefined (kevinwang)</author>
+    <category>continuous delivery</category>
+  </item>
+
   <item>
     <guid>https://kevin-ycw.github.io/blog/2023/06/note-continuous-delivery2-ch14</guid>
     <title>讀書筆記 持續交付 2.0 第十四章</title>
