@@ -7,9 +7,39 @@
       <language>zh-TW</language>
       <managingEditor>undefined (kevinwang)</managingEditor>
       <webMaster>undefined (kevinwang)</webMaster>
-      <lastBuildDate>Mon, 06 Nov 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 27 Jul 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://kevin-ycw.github.io/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://kevin-ycw.github.io/blog/2024/07/the-mentorship-program-2</guid>
+    <title>課後心得 領導力小學堂-2 中階主管的第一堂課</title>
+    <link>https://kevin-ycw.github.io/blog/2024/07/the-mentorship-program-2</link>
+    <description>領導力小學堂第二堂課的課後心得</description>
+    <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
+    <author>undefined (kevinwang)</author>
+    <category>note</category>
+  </item>
+
+  <item>
+    <guid>https://kevin-ycw.github.io/blog/2024/07/the-mentorship-program-1</guid>
+    <title>課後心得 領導力小學堂-1 新手主管準備期</title>
+    <link>https://kevin-ycw.github.io/blog/2024/07/the-mentorship-program-1</link>
+    <description>領導力小學堂第一堂課的課後心得</description>
+    <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+    <author>undefined (kevinwang)</author>
+    <category>note</category>
+  </item>
+
+  <item>
+    <guid>https://kevin-ycw.github.io/blog/2024/01/agile-testing-course-note</guid>
+    <title>不確定時代下的敏捷測試-課後心得</title>
+    <link>https://kevin-ycw.github.io/blog/2024/01/agile-testing-course-note</link>
+    <description>上完不確定時代下的敏捷測試的心得</description>
+    <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
+    <author>undefined (kevinwang)</author>
+    <category>agile</category>
+  </item>
+
   <item>
     <guid>https://kevin-ycw.github.io/blog/2023/11/note-rsg2023</guid>
     <title>心得文 - Regional Scrum Gathering Taipei 2023 Day 1</title>

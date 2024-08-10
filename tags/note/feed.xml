@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>kevin Wang Blog</title>
+      <link>https://kevin-ycw.github.io/blog</link>
+      <description>A blog posted some study note and my side project</description>
+      <language>zh-TW</language>
+      <managingEditor>undefined (kevinwang)</managingEditor>
+      <webMaster>undefined (kevinwang)</webMaster>
+      <lastBuildDate>Sat, 27 Jul 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://kevin-ycw.github.io/tags/note/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://kevin-ycw.github.io/blog/2024/07/the-mentorship-program-2</guid>
+    <title>課後心得 領導力小學堂-2 中階主管的第一堂課</title>
+    <link>https://kevin-ycw.github.io/blog/2024/07/the-mentorship-program-2</link>
+    <description>領導力小學堂第二堂課的課後心得</description>
+    <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
+    <author>undefined (kevinwang)</author>
+    <category>note</category>
+  </item>
+
+  <item>
+    <guid>https://kevin-ycw.github.io/blog/2024/07/the-mentorship-program-1</guid>
+    <title>課後心得 領導力小學堂-1 新手主管準備期</title>
+    <link>https://kevin-ycw.github.io/blog/2024/07/the-mentorship-program-1</link>
+    <description>領導力小學堂第一堂課的課後心得</description>
+    <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+    <author>undefined (kevinwang)</author>
+    <category>note</category>
+  </item>
+
+    </channel>
+  </rss>
